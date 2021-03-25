@@ -1,0 +1,42 @@
+{
+    "burgers":
+     [
+        {
+            "id": 0, 
+            "name": "Trite Burger",
+            "restaurant": "Honest Burgers",
+            "web": "www.honestburgers.com",
+            "description": "A moth-watering honest beef burger", 
+            "ingredients": ["beef", "american cheese", "burger sauce", "frech mustard"], 
+            "address": 
+            [
+                {
+                    "addressid": "0",
+                    "number": "75",
+                    "line1": "Venn Street",
+                    "line2": "Clapham", 
+                    "postcode": "SW4 0BD",
+                    "country": "United Kington"
+                }
+            ]   
+        },
+        {
+            "id": 1, 
+            "name": "Puiiled Mooshie",
+            "restaurant": "Mooshies",
+            "web": "www.veganburger.org",
+            "description" : "Spicy vegan burger with jackfruit",
+            "ingredients": ["jackfruit", "coleslaw", "gluten free bun"], 
+            "address": [
+                {
+                    "addressid": "1", 
+                    "number": "103",
+                    "line1": "Brick Lane", 
+                    "line2": "Shoreditch",
+                    "postcode": "E1 6RL", 
+                    "country": "United Kington"
+                }
+            ]           
+        }
+    ]
+}
